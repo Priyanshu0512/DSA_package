@@ -1,6 +1,6 @@
 {
   "name": "complete_dsa_in_js.js",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A package having all the implemetation of all Data Structures. ",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Priyanshu0512/Dsa_Npm_package.git"
+    "url": "https://github.com/Priyanshu0512/DSA_package.git"
   },
   "author": "Priyanshu Kumar",
   "license": "ISC"
